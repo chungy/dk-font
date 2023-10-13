@@ -19,8 +19,8 @@ FSType: 0
 OS2Version: 0
 OS2_WeightWidthSlopeOnly: 0
 OS2_UseTypoMetrics: 0
-CreationTime: 1697179172
-ModificationTime: 1697179203
+CreationTime: 1697179805
+ModificationTime: 1697179830
 PfmFamily: 33
 TTFWeight: 500
 TTFWidth: 5
@@ -340,10 +340,9 @@ SplineSet
  188 250 l 1
  188 375 l 1
  125 375 l 1x13c0
- 125 312 l 1x05c0
  125 250 l 1
 EndSplineSet
-Validated: 524289
+Validated: 1
 EndChar
 
 StartChar: uni0025
@@ -3321,16 +3320,16 @@ StartChar: uni007C
 Encoding: 124 124 95
 Width: 500
 Flags: W
-HStem: 0 21G<250 375> 0 21G<250 375> 418 20G<250 375> 418 20G<250 375>
-VStem: 250 125<0 438>
+HStem: 0 21G<188 312> 0 21G<188 312> 418 20G<188 312> 418 20G<188 312>
+VStem: 188 124<0 438>
 LayerCount: 2
 Fore
 SplineSet
-250 438 m 1xa8
- 375 438 l 1
- 375 0 l 1
- 250 0 l 1
- 250 438 l 1xa8
+188 438 m 1xa8
+ 312 438 l 1
+ 312 0 l 1
+ 188 0 l 1
+ 188 438 l 1xa8
 EndSplineSet
 Validated: 1
 EndChar
