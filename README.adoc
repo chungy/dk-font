@@ -10,6 +10,11 @@ case letters are copy+pasted into the lower case segment of the font;
 inventing new lower case letters breaks into large creative choices
 that would deviate too far from the original set.
 
++Donkey Kong AC.otf+ is the same characters, but aspect corrected to
+look visually identical to the game’s display once the pixels are
+stretched to a 3:4 monitor aspect (the game used a standard TV turned
+sideways).
+
 == Included characters
 
 The entire printable ASCII set is included, albeit upper case and
